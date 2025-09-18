@@ -1,5 +1,7 @@
 ### Welcome to Movie Tracker
 
+![website screenshot](./img/image.png)
+
 - A simple React-based movie tracking app.  
   Deployed on **Vercel**: [Movie Tracker](https://movie-tracker-mauve.vercel.app/)
 
@@ -43,7 +45,3 @@ npm start
 Open http://localhost:3000 in your browser.
 The page will reload automatically when you make changes, and lint errors will appear in the console.
 ```
-
-![Movie detail page](image-2.png)
-![Result page](image-1.png)
-![Initial page](image.png)
